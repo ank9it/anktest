@@ -95,7 +95,6 @@ pages:
               - Permalinks: material-docs/extensions/permalinks.md
               - PyMdown: material-docs/extensions/pymdown.md
           - Specimen: material-docs/specimen.md
-          - Customization: material-docs/customization.md
           - Release notes: material-docs/release-notes.md
           - Contributing: material-docs/contributing.md
           - License: material-docs/license.md
