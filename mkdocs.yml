@@ -19,17 +19,17 @@
 # IN THE SOFTWARE.
 
 # Project information
-site_name: Cloud Infrastructure Documentation
-site_description: A documentation site for all cloud infrastructure, security and compliance.
-site_author: Cloud Engineering, dunnhumby
-site_url: https://cloud-engineering.pages.dunnhumby.co.uk/docs/
+site_name: Documentation
+site_description: A documentation site.
+site_author: Docs
+site_url: https://ank9it.github.io/anktest/
 
 # Repository
-repo_name: cloud-engineering/docs
-repo_url: https://dhgitlab.dunnhumby.co.uk/cloud-engineering/docs
+repo_name: docs
+repo_url: https://github.com/ank9it/anktest
 
 # Copyright
-copyright: 'Cloud Engineering Infrastructure and Compliance'
+copyright: 'cen'
 
 # Theme directory
 theme: material
@@ -44,9 +44,9 @@ extra:
     accent: indigo
   social:
     - type: slack
-      link: https://mattermost.dunnhumby.com/default/channels/cloud-engineers
+      link: https://facebook.com
     - type: gitlab
-      link: https://dhgitlab.dunnhumby.co.uk/cloud-engineering
+      link: https://github.com/ank9it/anktest
 
 # Extensions
 markdown_extensions:
